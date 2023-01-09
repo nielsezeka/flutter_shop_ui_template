@@ -1,0 +1,21 @@
+{
+    "appName": "Awesome App",
+    "welcome": "Welcome to",
+    "slogan": "The best plant in e-commerce & online store app in century you need",
+    "intro1": "We provive high quality plants just for you",
+    "loginTittle": "Login with your account",
+    "signupTittle": "Create your account",
+    "username": "Username",
+    "password": "Password",
+    "remember": "Remember me",
+    "signinWithPass": "Signin with password",
+    "forgot": "Forgot the password",
+    "continueMessage": "Or continue with",
+    "dontHaveAccount": "Don't have an account",
+    "alreadyHasAccount": "Already has an account?",
+    "signup": "Sign up",
+    "signin": "Sign in",
+    "@appName": {
+      "description": "The app name"
+    }
+}
