@@ -15,7 +15,7 @@ If you want to dissuss or just chit chat with me,  [my telegram](https://t.me/na
 
 ## Screen shoots:
 
-<img src="/screen_shoots/1.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/1.png?raw=true" width="185" height="400" /> <br>
 <img src="/screen_shoots/2.png?raw=true" width="400" height="185" /> <br>
 <img src="/screen_shoots/3.png?raw=true" width="400" height="185" /> <br>
 <img src="/screen_shoots/4.png?raw=true" width="400" height="185" /> <br>
