@@ -92,13 +92,19 @@ class _OnboardingBaseState extends State<OnboardingBase>
                           children: [
                             Text(
                               'Choose Theme for demo',
-                              style: Theme.of(context).textTheme.headline6,
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .headline6!
+                                  .copyWith(color: Colors.black),
                               textAlign: TextAlign.center,
                             ),
                             const AppVerticalPadding(),
                             Text(
                               'Select your theme style to test (Note: We will delay 0.5 sec before your app auto move to next demoscreen after you make your choice)',
-                              style: Theme.of(context).textTheme.bodyText1,
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .bodyText1!
+                                  .copyWith(color: Colors.black),
                               textAlign: TextAlign.center,
                             ),
                             const AppVerticalPadding(),

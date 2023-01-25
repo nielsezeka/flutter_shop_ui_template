@@ -1,32 +1,42 @@
-# flutter_shop_ui_template_for_sale
+# Plants shop flutter
 
-A flutter UI template for sales
+Plant shop and sample logic for flutter dart.
 
-# 1. Techincal Note
+## Sumary
 
-## 1.1 About libraries.
-Important notes below
+Tested with android simulator blue stack(v5) and ios simulator. Every UI has carefully splitted.
+I first made this to upload to codecanyon, but I skipped it and now make this code public.
 
-Rxdart is from google bloc state management suggest in their official flutter conference(along with provider and redux. Other options may not good enough for production.), reference:
+## Notes
 
-- https://www.youtube.com/watch?v=RS36gBEp8OI&ab_channel=GoogleDevelopers (Google I/O '18)
-- https://www.youtube.com/watch?v=d_m5csmrf7I&ab_channel=Flutter (Google I/O'19)
+Feel free to use this code, is just want to make some funny code for my researching purpose. If you like it just drop a star for me!
 
+If you want to dissuss or just chit chat with me,  [my telegram](https://t.me/nangopo)
 
-## 1.2 About structures.
+## Screen shoots:
 
+<img src="/screen_shoots/1.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/2.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/3.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/4.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/5.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/6.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/7.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/8.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/9.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/10.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/11.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/12.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/13.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/14.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/15.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/16.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/17.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/18.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/19.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/20.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/21.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/22.png?raw=true" width="400" height="185" /> <br>
+<img src="/screen_shoots/23.png?raw=true" width="400" height="185" /> <br>
 
-### 1.2.1 UI setup.
-
-Widget splitted in to 2 seperated folder under `./presentationals`.
-
-- screens: contains all screen in your app.
-- widgets: contains the simple widget, that you can use to build their own screen if need. 
-
-### 1.2.2 Bloc setup.
-
-Splitted in to 2 folders:
-
-- global:  the global bloc scope, control all the app(example, hold the data we fetch from api for caching, the user information about token...).
-- screens: the screen scope, only use to control the state for targeted screen(example: validate text field, tikcking button...)
 
