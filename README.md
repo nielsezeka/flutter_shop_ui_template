@@ -18,26 +18,36 @@ If you want to dissuss or just chit chat with me,  [my telegram](https://t.me/na
 <img src="/screen_shoots/1.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/2.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/3.png?raw=true" width="185" height="400" />
-</p>
 <img src="/screen_shoots/4.png?raw=true" width="185" height="400" />
+</p>
+<p float="left">
 <img src="/screen_shoots/5.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/6.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/7.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/8.png?raw=true" width="185" height="400" />
+</p>
+<p float="left">
 <img src="/screen_shoots/9.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/10.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/11.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/12.png?raw=true" width="185" height="400" />
+</p>
+<p float="left">
 <img src="/screen_shoots/13.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/14.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/15.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/16.png?raw=true" width="185" height="400" />
+</p>
+<p float="left">
 <img src="/screen_shoots/17.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/18.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/19.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/20.png?raw=true" width="185" height="400" />
+</p>
+<p float="left">
 <img src="/screen_shoots/21.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/22.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/23.png?raw=true" width="185" height="400" />
+</p>
 
 
