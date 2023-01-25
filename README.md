@@ -14,10 +14,11 @@ Feel free to use this code, is just want to make some funny code for my research
 If you want to dissuss or just chit chat with me,  [my telegram](https://t.me/nangopo)
 
 ## Screen shoots:
-
+<p float="left">
 <img src="/screen_shoots/1.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/2.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/3.png?raw=true" width="185" height="400" />
+</p>
 <img src="/screen_shoots/4.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/5.png?raw=true" width="185" height="400" />
 <img src="/screen_shoots/6.png?raw=true" width="185" height="400" />
